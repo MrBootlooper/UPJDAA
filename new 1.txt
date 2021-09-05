@@ -1,0 +1,18 @@
+while n /= 0 do
+
+r <- m mod n
+
+m <- n
+
+n <- r
+
+return m
+
+
+
+
+
+
+
+Bilangan ankan dicari kelipatan terkecilnya.
+Bilangan tersebut lalu dibagi dengan 

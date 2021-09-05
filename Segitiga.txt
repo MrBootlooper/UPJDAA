@@ -1,0 +1,11 @@
+a = alas
+t= tinggi
+l = Luas
+
+
+
+a = 25
+
+t = 30
+
+l = 0.5*a*t

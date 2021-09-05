@@ -1,0 +1,9 @@
+p = panjang
+l = lebar
+ls = luas
+
+
+p = 5
+l = 3
+
+ls = p * l
